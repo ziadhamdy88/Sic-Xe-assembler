@@ -1,2 +1,2 @@
 # Sic-Xe-assembler
-Sic/Xe assembler in Java
+Program in Java that simulates how Sic/Xe assembler works
